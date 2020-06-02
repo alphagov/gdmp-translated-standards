@@ -1047,7 +1047,7 @@ Recuerde lo siguiente:
 
 ## 12. Cumplir con el Estándar de Servicio
 
-Si está desarrollando un servicio como parte de su proyecto o programa de tecnología, también deberá cumplir con el [Service Standard]([https://alphagov.github.io/gdmp-translated-standards/service-standard-es](https://alphagov.github.io/gdmp-translated-standards/service-standard-es)).
+Si está desarrollando un servicio como parte de su proyecto o programa de tecnología, también deberá cumplir con el [Estándar de servicio](service-standard-es)
 
 Con quién comunicarse para obtener ayuda
 
