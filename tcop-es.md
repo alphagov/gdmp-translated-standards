@@ -247,7 +247,7 @@ Las siguientes preguntas son algunos de los puntos que debe considerar cuando [c
 
   
 
- ## 4. Use los estándares abiertos
+## 4. Use los estándares abiertos
 
 Desarrolle una tecnología que use estándares abiertos para garantizar que su tecnología funcione y se comunique con otra tecnología, y así pueda actualizarla y expandirla con facilidad.
 
