@@ -554,23 +554,23 @@ Para asegurar la confianza, lo ideal sería que les diga a los usuarios cómo ex
 
 Mantener la privacidad de los datos personales de los ciudadanos incluye la seguridad. La privacidad también incluye cómo los ciudadanos:
 
--  Dan su consentimiento para el uso de sus datos personales
+-   Dan su consentimiento para el uso de sus datos personales
 
--  Tienen el derecho a que se eliminen sus datos personales
+-   Tienen el derecho a que se eliminen sus datos personales
 
--  Tienen el derecho a restringir el procesamiento de sus datos personales
+-   Tienen el derecho a restringir el procesamiento de sus datos personales
 
--  Tienen el derecho a la portabilidad de sus datos personales para que puedan acceder y transferirlos
+-   Tienen el derecho a la portabilidad de sus datos personales para que puedan acceder y transferirlos
 
 ### Cómo la privacidad desde el diseño ayudará a su programa
 
 Beneficios para su proyecto o programa de tecnología:
 
--  Ser proactivo sobre la privacidad y disminuir los riesgos de robo de datos
+-   Ser proactivo sobre la privacidad y disminuir los riesgos de robo de datos
 
--  Identificar posibles problemas de privacidad desde temprano cuando su solución es más fácil y cuesta menos
+-   Identificar posibles problemas de privacidad desde temprano cuando su solución es más fácil y cuesta menos
 
--  Entender mejor los problemas de privacidad en toda la organización
+-   Entender mejor los problemas de privacidad en toda la organización
 
 ### Cómo integrar la privacidad desde el diseño
 
