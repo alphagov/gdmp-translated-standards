@@ -128,7 +128,7 @@ Además, deben demostrar que existe un plan para solucionarlos. Por ejemplo, deb
 
   
 
-## 3. Hacer que el servicio sea fácil de usar
+## 4. Hacer que el servicio sea fácil de usar
     
 
 Cree un servicio que sea simple, natural y fácil de entender para el usuario. Pruébelo con los usuarios para asegurarse de que les resulte útil.
@@ -160,7 +160,7 @@ Los servicios también deben brindarles a los usuarios una experiencia uniforme 
 
   
 
-## 4. Asegúrese de que todos puedan usar el servicio
+## 5. Asegúrese de que todos puedan usar el servicio
     
 
 Brinde un servicio que todos puedan usar, incluidas las personas con discapacidad y las personas que no tienen acceso a internet ni las habilidades (o la confianza) para usarlo. Esto garantiza que los servicios sean eficientes y sea más fácil administrarlos.
@@ -194,7 +194,7 @@ Los equipos de servicio deben hacer lo siguiente:
 
   
 
-## 5. Cuente con un equipo multidisciplinario
+## 6. Cuente con un equipo multidisciplinario
     
 
 Organice un equipo multidisciplinario que pueda crear y operar el servicio de una manera sustentable.
@@ -232,7 +232,7 @@ Sin embargo, comience desde la suposición de que necesitará una amplia varieda
 
   
 
-## 6. Use un método ágil para trabajar
+## 7. Use un método ágil para trabajar
     
 
 Crea el servicio usando métodos ágiles e interactivos, centrados en el usuario.
@@ -268,7 +268,7 @@ Los equipos de servicio deben hacer lo siguiente:
 
   
 
-## 7. Repetir el servicio e implementar mejoras con frecuencia
+## 8. Repetir el servicio e implementar mejoras con frecuencia
     
 
 Asegúrese de tener la capacidad, los recursos y la flexibilidad técnica para repetir y mejorar el servicio con frecuencia.
@@ -303,7 +303,7 @@ No es necesario que, para administrar un servicio en vivo, deba tener todo el eq
 
   
 
-## 8. Crear un servicio seguro que proteja la privacidad de los usuarios
+## 9. Crear un servicio seguro que proteja la privacidad de los usuarios
     
 
 Evalúe qué datos del servicio recolectará, almacenará y brindará.
@@ -342,7 +342,7 @@ Los equipos de servicio deben hacer lo siguiente:
 
   
 
-## 9.Definir qué significa obtener buenos resultados y publicar los datos de desempeño
+## 10.Definir qué significa obtener buenos resultados y publicar los datos de desempeño
     
 
 Determine qué significa obtener buenos resultados para su servicio e identifique medidas que le indiquen qué está funcionando y qué puede mejorarse, combinado con la investigación del usuario.
@@ -386,7 +386,7 @@ Los equipos de servicio deben hacer lo siguiente:
   
   
 
-## 10. Elegir las herramientas y la tecnología apropiadas
+## 11. Elegir las herramientas y la tecnología apropiadas
     
 
 Elija las herramientas y la tecnología que le permitan crear un servicio de buena calidad de una manera rentable. Minimice el costo de cambiar la dirección en el futuro.
@@ -416,7 +416,7 @@ Cuando se considera la arquitectura técnica, los lenguajes de programación, la
 
   
 
-## 11. Hacer que los códigos fuente nuevos sean abiertos
+## 12. Hacer que los códigos fuente nuevos sean abiertos
     
 
 Haga que todos los códigos fuente nuevos sean abiertos y reutilizables, y publíquelos bajo las licencias apropiadas.
@@ -455,7 +455,7 @@ Existen algunos casos [when you should not publish code in the open](https://www
 
   
 
-## 12. Usar y contribuir a los estándares abiertos y los componentes y patrones comunes
+## 13. Usar y contribuir a los estándares abiertos y los componentes y patrones comunes
     
 
 Amplíe los estándares abiertos y los componentes y patrones comunes desde dentro y fuera del gobierno.
@@ -502,7 +502,7 @@ Esto no se aplica a los datos que contienen información de identificación pers
 
   
 
-## 13. Operar un servicio confiable
+## 14. Operar un servicio confiable
     
 
 Minimice el tiempo de inactividad del servicio y tenga un plan para tratar esto cuando ocurra.
