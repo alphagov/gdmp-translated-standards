@@ -534,3 +534,9 @@ Los equipos de servicio deben hacer lo siguiente:
 -   Contar con  [appropriate monitoring in place](https://www.gov.uk/service-manual/technology/monitoring-the-status-of-your-service), además de un plan proporcional y sustentable para responder a los problemas identificados en los controles (dado el impacto de los problemas sobre los usuarios y el gobierno)
     
 -   Trabajar activamente para solucionar los problemas organizativos y contractuales que dificultan la posibilidad de maximizar la disponibilidad (por ejemplo, acordar un conjunto común de lenguajes, herramientas y maneras de trabajar para el personal técnico, ya sea informalmente o a través de algo más formal como  [the GDS way](https://gds-way.cloudapps.digital/#content))
+
+
+
+# Link to test page
+
+[Link to test page](test)
