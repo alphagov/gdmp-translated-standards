@@ -9,17 +9,17 @@ Debe usar el Código de Prácticas Tecnológicas para todos sus proyectos o prog
 
 Seguir el Código de Prácticas Tecnológicas lo ayudará a introducir o actualizar productos o servicios de tecnología para que estos:
 
-●  Cumplan con las  [user needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs), con base en la investigación con sus usuarios.
+- Cumplan con las  [user needs](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs), con base en la investigación con sus usuarios.
 
-●  Se puedan compartir con más facilidad en todas las divisiones gubernamentales.
+-  Se puedan compartir con más facilidad en todas las divisiones gubernamentales.
 
-●  Sean fáciles de mantener.
+-  Sean fáciles de mantener.
 
-●  Se amplíen para el uso futuro.
+-  Se amplíen para el uso futuro.
 
-●  Dependan menos en proveedores terceros específicos.
+- Dependan menos en proveedores terceros específicos.
 
-●  Sean más rentables.
+- Sean más rentables.
 
 El Código de Prácticas Tecnológicas contiene pautas y estudios de caso para que pueda migrar de la infraestructura de legado y gestionar todo el ciclo de vida de su tecnología.
 
@@ -310,39 +310,39 @@ Para cumplir con el punto 5 del Código de Prácticas Tecnológicas, su plan o d
 
 Si se encuentra en el proceso de control de gastos, debe explicar cómo está cumpliendo con el punto 5 o las limitaciones que ha encontrado.
 
-## Descripción resumida de la informática en la nube
+### Descripción resumida de la informática en la nube
 
 La [Cloud computing](https://www.gov.uk/guidance/government-cloud-first-policy#definitions)  es una manera de almacenar y recuperar datos y software en internet. Estas son las 3 áreas de servicio principales:
 
-● Software como un Servicio (SaaS), que consiste en el uso de aplicaciones en internet
+- Software como un Servicio (SaaS), que consiste en el uso de aplicaciones en internet
 
-● Plataforma como un Servicio (PaaS), que ofrece la plataforma para desarrollar, probar e implementar sus aplicaciones en internet
+- Plataforma como un Servicio (PaaS), que ofrece la plataforma para desarrollar, probar e implementar sus aplicaciones en internet
 
-● Infraestructura como un Servicio (IaaS), que ofrece la infraestructura/red de tecnología física virtualmente en internet sin necesidad de que compre su propio hardware
+- Infraestructura como un Servicio (IaaS), que ofrece la infraestructura/red de tecnología física virtualmente en internet sin necesidad de que compre su propio hardware
 
-## Cómo adoptar primero la nube ayudará a su programa
+### Cómo adoptar primero la nube ayudará a su programa
 
 Puede usar la informática en la nube para tratar el proceso, la red, el almacenamiento y la potencia como utilidades. Razones por las que este enfoque es beneficioso:
 
-● Puede evitar inversiones por adelantado en su infraestructura, lo que reduce los costos en general.
+- Puede evitar inversiones por adelantado en su infraestructura, lo que reduce los costos en general.
 
-● Tiene más flexibilidad para probar los nuevos servicios o hacer cambios, con un costo mínimo.
+-  Tiene más flexibilidad para probar los nuevos servicios o hacer cambios, con un costo mínimo.
 
-● Los modelos de cotización son escalables; en vez de desarrollar para el uso máximo, adquiere para el menor uso y aumenta o disminuye según corresponda.
+- Los modelos de cotización son escalables; en vez de desarrollar para el uso máximo, adquiere para el menor uso y aumenta o disminuye según corresponda.
 
-● Será más fácil implementar políticas ecológicas en el gobierno, ya que las instalaciones en la nube suelen usar el espacio y la potencia del servicio de la manera más eficiente posible.
+- Será más fácil implementar políticas ecológicas en el gobierno, ya que las instalaciones en la nube suelen usar el espacio y la potencia del servicio de la manera más eficiente posible.
 
-● Se pueden aplicar actualizaciones y parches de seguridad continuamente.
+- Se pueden aplicar actualizaciones y parches de seguridad continuamente.
 
-● El proveedor tendrá la responsabilidad de asegurarse de que su servicio esté disponible para los usuarios.
+- El proveedor tendrá la responsabilidad de asegurarse de que su servicio esté disponible para los usuarios.
 
 Para conocer más detalles sobre los beneficios de usar la nube, puede leer las publicaciones del blog en: [](https://governmenttechnology.blog.gov.uk/2016/08/02/why-we-use-the-cloud-security-and-efficiency/) [Why we use  the cloud: security and efficiency](https://governmenttechnology.blog.gov.uk/2016/08/02/why-we-use-the-cloud-security-and-efficiency/)  y [Why we use the cloud: supporting services](https://governmenttechnology.blog.gov.uk/2016/07/22/why-we-use-the-cloud-supporting-services/)
 
-## Excepciones
+### Excepciones
 
 En algunos casos, es recomendable que use una alternativa a la nube. Solo debe hacerlo si puede demostrar que el servicio que eligió representa la mejor relación calidad-precio si selecciona una alternativa a la nube pública. También debe demostrar que tuvo en cuenta la flexibilidad al poder cambiar el sistema y reducir los costos con el tiempo. Lea cómo el [Department for Transport is using cloud technology](https://dftdigital.blog.gov.uk/2019/02/26/transformation-of-lennon-rail-data-application/).
 
-## Use la nube con seguridad
+### Use la nube con seguridad
 
 Estas son las principales pautas para proteger su red, servicios y datos en la nube:
 
@@ -356,7 +356,7 @@ Estas son las principales pautas para proteger su red, servicios y datos en la n
 
   
 
-## Pautas relacionadas
+### Pautas relacionadas
 
 -   [Assessing a hosting business case](https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case)
     
@@ -412,25 +412,25 @@ necesitará su programa?
 
 Los recursos de seguridad de cada organización dependerán de su presupuesto, así mismo el riesgo que deseen asumir dependiendo de los servicios e información que ofrezcan. Analice los requisitos de seguridad de su programa con el equipo o la persona responsables de la seguridad en su organización. Como parte de esto, debería hacer lo siguiente:
 
-● Evalué el riesgo para su programa
+- Evalué el riesgo para su programa
 
-● Identifique y cumpla con las normas y marcos de seguridad relevantes (ejemplos de los que se usan en el Reino Unido: [](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice-related-guidance%23security) [technology security guidance list](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice-related-guidance#security))
+- Identifique y cumpla con las normas y marcos de seguridad relevantes (ejemplos de los que se usan en el Reino Unido: [](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice-related-guidance%23security) [technology security guidance list](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice-related-guidance#security))
 
-● Acordar cómo su programa funcionará con las políticas de seguridad y control que se usan dentro de su organización
+- Acordar cómo su programa funcionará con las políticas de seguridad y control que se usan dentro de su organización
 
-● Asigne funciones y responsabilidades de seguridad dentro del programa
+- Asigne funciones y responsabilidades de seguridad dentro del programa
 
-● Considere si tiene conocimientos relevantes sobre seguridad o si necesita aprender más habilidades
+- Considere si tiene conocimientos relevantes sobre seguridad o si necesita aprender más habilidades
 
 Una vez que haya identificado los riesgos de seguridad para su programa, debe integrarlos e incluir lo siguiente:
 
-● Cómo su programa hará un seguimiento, mitigará o aceptará los riesgos de seguridad
+- Cómo su programa hará un seguimiento, mitigará o aceptará los riesgos de seguridad
 
-● Los plazos esperados para mitigar cada riesgo
+-  Los plazos esperados para mitigar cada riesgo
 
-● Procesos claros y bien documentados sobre la seguridad
+- Procesos claros y bien documentados sobre la seguridad
 
-● Planes de capacitación y control de acceso de sus usuarios
+- Planes de capacitación y control de acceso de sus usuarios
 
 ### Usar seguridad proporcional para su tecnología
 
