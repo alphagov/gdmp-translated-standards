@@ -576,33 +576,19 @@ Beneficios para su proyecto o programa de tecnología:
 
 Las siguientes preguntas son útiles al considerar el uso de datos y su privacidad:
 
-1. ¿El proyecto o programa implicará la recopilación de información nueva sobre
+1. ¿El proyecto o programa implicará la recopilación de información nueva sobre los individuos ?
 
-los individuos ?
+2. ¿Las personas deben brindar información sobre ellas mismas al proyecto o programa?
 
-2. ¿Las personas deben brindar información sobre ellas mismas al proyecto o
+3. ¿La información sobre las personas se divulgará a organizaciones o personas que no han tenido antes acceso habitual a la información?
 
-programa?
+4. ¿Está usando la información sobre las personas con un fin para el que actualmente no se usa, o de una manera distinta de la actual?
 
-3. ¿La información sobre las personas se divulgará a organizaciones o personas que no han tenido
+5. ¿El proyecto o programa implica que al usar nueva tecnología esto podría verse como una intrusión a la privacidad? Por ejemplo, el uso de datos biométricos o el reconocimiento facial.
 
-antes acceso habitual a la información?
+6. ¿El proyecto o programa dará como resultado la toma de decisiones o medidas acerca de las personas de maneras que pueden tener un gran efecto sobre ellas?
 
-4. ¿Está usando la información sobre las personas con un fin para el que actualmente no se usa,
-
-o de una manera distinta de la actual?
-
-5. ¿El proyecto o programa implica que al usar nueva tecnología esto podría verse como una intrusión a la privacidad? Por ejemplo, el uso de datos biométricos o el
-
-reconocimiento facial.
-
-6. ¿El proyecto o programa dará como resultado la toma de decisiones o medidas
-
-acerca de las personas de maneras que pueden tener un gran efecto sobre ellas?
-
-7. ¿La información sobre las personas es de un tipo que podría generar
-
-inquietudes particulares o expectativas sobre la privacidad? Por ejemplo, historias clínicas, antecedentes penales u otra información que las personas considerarían privada.
+7. ¿La información sobre las personas es de un tipo que podría generar inquietudes particulares o expectativas sobre la privacidad? Por ejemplo, historias clínicas, antecedentes penales u otra información que las personas considerarían privada.
 
 8. ¿El proyecto o programa le exigirá comunicarse con las personas de una manera que les resulte incómoda o molesta?  
 
