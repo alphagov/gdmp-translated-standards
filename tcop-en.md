@@ -1080,7 +1080,7 @@ Remember that:
 
 ## 12. Meet the Service Standard
 
-If you’re building a service as part of your technology project or programme you will also need to meet the [Service Standard](https://www.gov.uk/service-manual/service-standard).
+If you’re building a service as part of your technology project or programme you will also need to meet the [Service Standard](service-standard-en).
 
 Who to contact for help
 
