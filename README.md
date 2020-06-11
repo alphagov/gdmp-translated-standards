@@ -1,6 +1,14 @@
 # Global Digital Marketplace Programme Translated Standard Documents
 
 
+## English Versions
+
+
+### Service Standard in English (EN)
+
+[Service Standard](service-standard-en)
+
+
 ## Spanish Versions
 
 
