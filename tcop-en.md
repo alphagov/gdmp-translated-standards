@@ -1,10 +1,6 @@
 # Technology Code of Practice
 
-Please note - this document is an adaptation of guidance used to procure technology in the UK. It contains links to other documents which are in English. If you are interested in translated versions of these please contact your regional GDMP Senior Delivery Manager:
-
--   [Henny.Bird@digital.cabinet-office.gov.uk](mailto:Henny.Bird@digital.cabinet-office.gov.uk) - South East Asia
-    
--   [Mariana.Leal@digital.cabinet-office.gov.uk](mailto:Mariana.Leal@digital.cabinet-office.gov.uk) - Latin America.
+Please note - this document is an adaptation of guidance used to procure technology in the UK. 
     
 
 The Technology Code of Practice is a set of criteria to help government design, build and buy technology.
