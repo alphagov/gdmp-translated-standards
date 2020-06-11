@@ -416,9 +416,7 @@ You must consider security from the start of your technology programme, and for 
 
 2. Will your programme use or collect sensitive data? 3. How will your programme’s security interact with other systems?
 
-3. How will your programme’s security integrate with your organisation’s departmental
-
-security and processes?
+3. How will your programme’s security integrate with your organisation’s departmental security and processes?
 
 4. How will your programme’s security meet cyber security standards. For example, the UK uses the[Minimum Cyber Security standard](https://www.gov.uk/government/publications/the-minimum-cyber-security-standard)
 
@@ -426,9 +424,7 @@ security and processes?
 
 6. How will you source the security expertise and skills you need?
 
-7. What changes to your organisation’s security documentation and processes will your
-
-programme need?
+7. What changes to your organisation’s security documentation and processes will your programme need?
 
 8. How will you provide appropriate security assurance, both throughout the duration of the programme and for its product or service?
 
