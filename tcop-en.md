@@ -1,6 +1,6 @@
 # Technology Code of Practice
 
-Please note - this document is an adaptation of guidance used to procure technology in the UK. 
+This document is an adaptation of guidance used to procure technology in the UK. 
     
 
 The Technology Code of Practice is a set of criteria to help government design, build and buy technology.
