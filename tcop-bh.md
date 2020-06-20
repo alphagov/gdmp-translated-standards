@@ -1053,7 +1053,7 @@ Ingatlah bahwa:
     
 ## 12. Memenuhi Standar Layanan
 
-Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Service Standard](https://www.gov.uk/service-manual/service-standard).
+Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Standar Pelayanan](service-standard-bh).
 
 Pusat bantuan
 
