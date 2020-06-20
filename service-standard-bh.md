@@ -54,15 +54,15 @@ Tim layanan harus:
     
 -   memastikan pelingkupan layanan ditentukan berdasarkan cara pikir pengguna ([scoped according to how users think),](https://www.gov.uk/service-manual/design/scoping-your-service) tidak terlalu sempit dan tidak terlalu luas.
     
--   mampu menjelaskan bagaimana transaksi yang dilakukan pengguna akan terhubungkan dengan hal-hal lain di dalam satu perjalanan yang akan mengatasi masalah secara keseluruhan bagi mereka (studi kasus: [come to the UK to study](https://hodigital.blog.gov.uk/2018/06/07/creating-a-list-of-services/))
+-   mampu menjelaskan bagaimana transaksi yang dilakukan pengguna akan terhubungkan dengan hal-hal lain di dalam satu perjalanan yang akan mengatasi masalah secara keseluruhan bagi mereka (studi kasus: [come to the UK to study](https://hodigital.blog.gov.uk/2018/06/07/creating-a-list-of-services/)
     
--   bertanggung jawab untuk menyetujui bagaimana caranya perjalanan pengguna ini akan sejalan / terintegrasi dengan berbagai organisasi yang bertanggung jawab atas bagian yang berbeda-beda - contohnya, dengan tim konten GDS yang menggabungkan konten mainstream gov.uk dengan transaksi yang Anda (pembaca) kerjakan.
+-   bertanggung jawab untuk menyetujui bagaimana caranya perjalanan pengguna ini akan sejalan / terintegrasi dengan berbagai organisasi yang bertanggung jawab atas bagian yang berbeda-beda - contohnya, dengan tim konten GDS yang menggabungkan konten mainstream gov.uk dengan transaksi yang Anda (pembaca) kerjakan
     
 -   bekerja secara terbuka agar orang di luar organisasi tahu apa yang mereka lakukan - meningkatkan potensi kolaborasi dan mengurangi upaya ganda (misalnya dengan menerbitkan contoh kasus bisnis, pernyataan misi, penemuan riset, peta pengalaman pengguna, peta layanan yang telah tersedia dan [roadmaps](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap)  produk yang menunjukkan rencana pengembangan fitur-fitur baru)
     
--   berusaha meminimalisir jumlah berapa kali pengguna harus memberikan informasi yang sama kepada pemerintah (serta menghormati ‘privasi’ pengguna).
+-   berusaha meminimalisir jumlah berapa kali pengguna harus memberikan informasi yang sama kepada pemerintah (serta menghormati ‘privasi’ pengguna)
     
--   bekerja melintasi batas organisasi ([work across organisational boundaries)](https://www.gov.uk/service-manual/agile-delivery/working-across-organisational-boundaries) di mana perlu untuk mengatasi masalah bagi pengguna secara menyeluruh.
+-   bekerja melintasi batas organisasi ([work across organisational boundaries)](https://www.gov.uk/service-manual/agile-delivery/working-across-organisational-boundaries) di mana perlu untuk mengatasi masalah bagi pengguna secara menyeluruh
     
 ## 3.  Menyediakan pengalaman terpadu di lintas media komunikasi
     
@@ -118,7 +118,7 @@ Tim layanan harus:
 
 -   memastikan layanan membantu pengguna untuk menyelesaikan apa yang perlu dikerjakan dengan cara yang sesederhana mungkin ([helps the user to do the thing they need to do as simply as possible](https://www.gov.uk/service-manual/design/introduction-designing-government-services)), agar mereka dapat melakukannya cukup dengan sedikit bantuan saja
     
--   sering menguji coba layanan dengan pengguna sebenarnya dan pengguna potensial, dengan menggunakan teknik riset [(research techniques](https://www.gov.uk/service-manual/user-research)) yang sesuai
+-   sering menguji coba layanan dengan pengguna sebenarnya dan pengguna potensial, dengan menggunakan teknik riset [(research techniques](https://www.gov.uk/service-manual/user-research) yang sesuai
     
 -   Menguji coba seluruh bagian layanan yang digunakan pengguna untuk berinteraksi, misalnya bagian daring dan bagian luring (seperti surat-menyurat)
     
@@ -126,9 +126,9 @@ Tim layanan harus:
 
 Layanan juga harus memberikan pengalaman yang konsisten kepada pengguna, mulai dari awal sampai akhir. Untuk layanan GOV.UK, ini berarti:
 
--   tetap konsisten sesuai dengan rancangan GOV.UK ([being consistent with the design of GOV.UK](https://www.gov.uk/service-manual/design/making-your-service-look-like-govuk))
+-   tetap konsisten sesuai dengan rancangan GOV.UK ([being consistent with the design of GOV.UK](https://www.gov.uk/service-manual/design/making-your-service-look-like-govuk)
     
--   mengikuti style guide GOV.UK ([GOV.UK style guide](https://www.gov.uk/guidance/style-guide)) untuk semua teks, baik daring maupun luring
+-   mengikuti style guide GOV.UK ([GOV.UK style guide](https://www.gov.uk/guidance/style-guide) untuk semua teks, baik daring maupun luring
     
 ##  5.  Memastikan semua orang dapat menggunakan layanan
     
@@ -147,11 +147,11 @@ Layanan yang inklusif dan dapat diakses adalah lebih baik bagi semua pihak. Cont
 Tim layanan harus:
 
 
--   memenuhi standar aksesibilitas ([accessibility standards](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)), termasuk pada bagian daring dan luring
+-   memenuhi standar aksesibilitas ([accessibility standards](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction), termasuk pada bagian daring dan luring
     
--   menghindari pengecualian grup manapun dalam audiens atau pengguna layanan ([excluding any groups within the audience they’re intended to serve](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive))
+-   menghindari pengecualian grup manapun dalam audiens atau pengguna layanan ([excluding any groups within the audience they’re intended to serve](https://www.gov.uk/service-manual/design/making-your-service-more-inclusive)
     
--   melaksanakan riset dengan partisipan yang mewakili pengguna potensial layanan ([represent the potential audience for the service](https://www.gov.uk/service-manual/user-research/find-user-research-participants)), termasuk mereka yang membutuhkan kemudahan akses
+-   melaksanakan riset dengan partisipan yang mewakili pengguna potensial layanan ([represent the potential audience for the service](https://www.gov.uk/service-manual/user-research/find-user-research-participants), termasuk mereka yang membutuhkan kemudahan akses
     
 -   memastikan orang tidak dikecualikan untuk dapat menggunakan layanan hanya karena mereka kurang memiliki keterampilan digital atau akses internet, menyediakan bantuan dukungan secara digital ([assisted digital support)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/designing-assisted-digital) yang sesuai untuk menutup kesenjangan yang ada
     
@@ -177,7 +177,7 @@ Layanan harus:
     
 -   Menyediakan akses kepada spesialis dengan keahlian yang diperlukan (misalnya, hukum, kebijakan atau analis industri tertentu,baik dari dalam maupun luar organisasi)
     
--   jika tim bekerja dengan kontraktor atau penyedia dari luar atau eksternal ([working with contractors and outside suppliers](https://www.gov.uk/service-manual/the-team/working-contractors-third-parties)), pastikan hal ini dilakukan secara berkelanjutan
+-   jika tim bekerja dengan kontraktor atau penyedia dari luar atau eksternal ([working with contractors and outside suppliers](https://www.gov.uk/service-manual/the-team/working-contractors-third-parties), pastikan hal ini dilakukan secara berkelanjutan
     
 Dapat dikatakan, pembentukan tim Anda tergantung dari apa yang mereka kerjakan pada waktu tertentu. Contohnya, tim yang bekerja di tahap alpha - dan telah sepakat dengan penasehat bahwa asumsi yang paling beresiko berkaitan dengan interaksi bukan teknologi - akan kurang membutuhkan keterlibatan seorang arsitek teknis (technical architect) di tahap ini.
 
@@ -224,7 +224,7 @@ Iterasi bukan hanya untuk tahap awal pengembangan layanan.
 
   
 
-Menjalankan layanan secara live (langsung) bukan berarti harus ada tim lengkap yang bekerja untuk layanan 100% selama masa live-nya. Namun ini berarti dapat meningkatkan layanan secara substantif ([being able to make substantial improvements](https://www.gov.uk/service-manual/agile-delivery/running-your-service-in-a-sustainable-way)) di sepanjang masa layanan.
+Menjalankan layanan secara live (langsung) bukan berarti harus ada tim lengkap yang bekerja untuk layanan 100% selama masa live-nya. Namun ini berarti dapat meningkatkan layanan secara substantif ([being able to make substantial improvements](https://www.gov.uk/service-manual/agile-delivery/running-your-service-in-a-sustainable-way) di sepanjang masa layanan.
 
 ## 9.   Menciptakan layanan aman yang melindungi privasi pengguna
     
@@ -240,7 +240,7 @@ Layanan pemerintah seringkali menyimpan informasi pribadi dan sensitif tentang p
 
 Tim layanan harus:
 
--   secara aktif mengidentifikasi ancaman terhadap keamanan dan privasi, serta memiliki pendekatan yang ketat dan proporsional untuk pengamanan informasi ([securing information)](https://www.gov.uk/service-manual/technology/securing-your-information) dan pengelolaan resiko penipuan [(managing fraud risks](https://www.gov.uk/service-manual/technology/protecting-your-service-against-fraud))
+-   secara aktif mengidentifikasi ancaman terhadap keamanan dan privasi, serta memiliki pendekatan yang ketat dan proporsional untuk pengamanan informasi ([securing information)](https://www.gov.uk/service-manual/technology/securing-your-information) dan pengelolaan resiko penipuan [(managing fraud risks](https://www.gov.uk/service-manual/technology/protecting-your-service-against-fraud)
     
 -   memiliki perencanaan dan anggaran untuk mengatur keamanan sepanjang masa layanan (misalnya dengan merespon ancaman baru, melaksanakan pengawasan dan melakukan security patch terhadap perangkat lunak).
     
@@ -278,7 +278,7 @@ Tim layanan harus:
     
 -   menggunakan data kinerja untuk mengambil keputusan tentang bagaimana cara mengatasi permasalahan dan meningkatkan layanan
     
-Di UK, layanan pemerintah pusat juga perlu mempublikasikan data Indikator Kinerja Utama wajib ([mandatory key performance indicators (KPIs](https://www.gov.uk/service-manual/measuring-success/sharing-your-data-with-the-performance-platform))
+Di UK, layanan pemerintah pusat juga perlu mempublikasikan data Indikator Kinerja Utama wajib ([mandatory key performance indicators (KPIs](https://www.gov.uk/service-manual/measuring-success/sharing-your-data-with-the-performance-platform)
 
 ## 11.   Memilih perangkat dan teknologi yang tepat
     
@@ -296,7 +296,7 @@ Saat mempertimbangkan arsitektur teknis, pilihan bahasa pemrograman, perangkat p
     
 -   mampu menunjukkan bahwa mereka telah membuat keputusan yang baik ([good decisions)](https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction) tentang teknologi apa yang harus dibangun dan yang harus dibeli
     
--   memahami biaya total kepemilikan teknologi dan mempertahankan kemampuan untuk mengambil berbagai keputusan di masa depan, misalnya, mengurangi resiko terikat kontrak dengan perangkat dan penyedia tertentu dengan menggunakan “open standards” - suatu spesifikasi teknis yang dikembangkan di luar pemerintahan ([using open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards))
+-   memahami biaya total kepemilikan teknologi dan mempertahankan kemampuan untuk mengambil berbagai keputusan di masa depan, misalnya, mengurangi resiko terikat kontrak dengan perangkat dan penyedia tertentu dengan menggunakan “open standards” - suatu spesifikasi teknis yang dikembangkan di luar pemerintahan ([using open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards)
     
 -   memiliki pendekatan efektif untuk pengelolaan teknologi lama ([managing any legacy technology)](https://gds.blog.gov.uk/2014/07/08/making-prison-visits-easier-to-book/) yang terintegrasi atau yang terkait denganlayanan saat ini
     
@@ -322,7 +322,7 @@ Tim layanan harus:
 -   Menyimpan kepemilikan intelektual dari kode sumber baru yang diciptakan sebagai bagian dari layanan, dan membuatnya tersedia untuk digunakan kembali dengan lisensi terbuka
     
 
-Ada beberapa kasus yang menggambarkan kapan kode tidak dapat dipublikasikan secara terbuka ([when you should not publish code in the open](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed)). Misalnya, kode yang berhubungan dengan kebijakan pemerintah yang sensitif dan belum diumumkan.
+Ada beberapa kasus yang menggambarkan kapan kode tidak dapat dipublikasikan secara terbuka ([when you should not publish code in the open](https://www.gov.uk/government/publications/open-source-guidance/when-code-should-be-open-or-closed). Misalnya, kode yang berhubungan dengan kebijakan pemerintah yang sensitif dan belum diumumkan.
 
 
 ## 13.   Menggunakan dan berkontribusi kepada “open standards” - standar terbuka, komponen dan pola umum
@@ -341,15 +341,15 @@ Standar terbuka membantu layanan untuk bekerja dengan lebih konsisten -sehingga 
 
 Tim layanan harus:
 
--   menggunakan standar terbuka ([open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards)), dan mengajukan standar terbuka yang baru jika belum ada standar yang dapat memenuhi kebutuhan mereka
+-   menggunakan standar terbuka ([open standards](https://www.gov.uk/service-manual/technology/working-with-open-standards), dan mengajukan standar terbuka yang baru jika belum ada standar yang dapat memenuhi kebutuhan mereka
     
--   menggunakan komponen teknologi standar pemerintah ([standard government technology components)](https://www.gov.uk/service-toolkit%23gov-uk-services) jika memungkinkan, (misalnya di UK untuk identifikasi pengguna saat permohonan Surat Izin Mengemudi atau pembayaran pajak, keduanya menggunakan [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify))
+-   menggunakan komponen teknologi standar pemerintah ([standard government technology components)](https://www.gov.uk/service-toolkit%23gov-uk-services) jika memungkinkan, (misalnya di UK untuk identifikasi pengguna saat permohonan Surat Izin Mengemudi atau pembayaran pajak, keduanya menggunakan [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify)
     
--   memaksimalkan fleksibilitas dalam penggunaan teknologi, misalnya dengan menggunakan dan menciptakan [application programming interfaces (APIs)](https://www.gov.uk/service-manual/technology/application-programming-interfaces-apis) dan, jika memungkinkan, sumber daya yang dapat diandalkan(seperti misalnya di UK menggunakan [registers](https://www.gov.uk/government/publications/registers))
+-   memaksimalkan fleksibilitas dalam penggunaan teknologi, misalnya dengan menggunakan dan menciptakan [application programming interfaces (APIs)](https://www.gov.uk/service-manual/technology/application-programming-interfaces-apis) dan, jika memungkinkan, sumber daya yang dapat diandalkan(seperti misalnya di UK menggunakan [registers](https://www.gov.uk/government/publications/registers)
     
--   menggunakan komponen dan pola umum, dan membagikan detail dari komponen atau pola baru yang diciptakan atau diadaptasi (contohnya, di UK tim layanan berkontribusi ke GOV.UK Design System - [contributing to the GOV.UK Design System](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/)).
+-   menggunakan komponen dan pola umum, dan membagikan detail dari komponen atau pola baru yang diciptakan atau diadaptasi (contohnya, di UK tim layanan berkontribusi ke GOV.UK Design System - [contributing to the GOV.UK Design System](https://design-system.service.gov.uk/community/propose-a-component-or-pattern/).
     
-Saat layanan menciptakan data yang secara potensial berguna untuk pihak lain baik di dalam atau di luar pemerintahan, maka itu harus dipublikasikan secara terbuka, dalam format terbaca mesin ([machine readable format](http://opendatahandbook.org/glossary/en/terms/machine-readable/)), di bawah [Open Government](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  [Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) (kecuali mereka mempunyai izin dari National Archives - atau Pusat Arsip Nasional di UK - untuk menggunakan tipe lisensi yang berbeda ([different type of licence)](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/open-government-licence/other-licences/)).
+Saat layanan menciptakan data yang secara potensial berguna untuk pihak lain baik di dalam atau di luar pemerintahan, maka itu harus dipublikasikan secara terbuka, dalam format terbaca mesin ([machine readable format](http://opendatahandbook.org/glossary/en/terms/machine-readable/)), di bawah [Open Government](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)  [Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) (kecuali mereka mempunyai izin dari National Archives - atau Pusat Arsip Nasional di UK - untuk menggunakan tipe lisensi yang berbeda ([different type of licence)](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/open-government-licence/other-licences/).
 
   
 Hal ini tidak hanya berlaku untuk data yang berisikan informasi pribadi yang dapat diidentifikasi, informasi sensitif (misalnya karena dapat mempengaruhi keamanan nasional), atau dimana mempublikasikan data dapat melanggar hak kekayaan intelektual seseorang di luar pemerintahan.
@@ -372,7 +372,7 @@ Tim layanan harus:
 
 -   memaksimalkan waktu kerja dan kecepatan dalam merespons / menanggapi untuk bagian layanan online ([maximise uptime and speed of response for the online part of the service](https://www.gov.uk/service-manual/technology/uptime-and-availability-keeping-your-service-online))
     
--   mampu untuk memperbaharui atau mengupdate perangkat lunak secara teratur ([deploy software changes regularly](https://www.gov.uk/service-manual/making-software/deployment.html)), tanpa waktu henti (downtime) yang signifikan (misalnya dengan meminimalisir upaya yang melibatkan penciptaan lingkungan baru dan mempopulasikan lingkungan pra produksi dengan data pengujian)
+-   mampu untuk memperbaharui atau mengupdate perangkat lunak secara teratur ([deploy software changes regularly](https://www.gov.uk/service-manual/making-software/deployment.html), tanpa waktu henti (downtime) yang signifikan (misalnya dengan meminimalisir upaya yang melibatkan penciptaan lingkungan baru dan mempopulasikan lingkungan pra produksi dengan data pengujian)
     
 -   melaksanakan pengujian untuk menjamin kualitas ([quality assurance testing)](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) secara berkala
     
@@ -380,4 +380,4 @@ Tim layanan harus:
     
 -   melakukan monev ([appropriate monitoring in place](https://www.gov.uk/service-manual/technology/monitoring-the-status-of-your-service)), yang disertai dengan perencanaan yang proporsional dan berkesinambungan untuk menanggapi masalah yang teridentifikasi dari monitoring atau pemantauan (mengingat dampak masalah akan berpengaruh terhadap pengguna dan terhadap pemerintah)
     
--   secara aktif bekerja untuk memperbaiki masalah organisasi atau kontrak yang mempersulit penyediaan layanan supaya berjalan maksimal (misalnya dengan menyepakati bahasa yang akan dipakai, perangkat dan cara kerja staf teknis, baik secara informal maupun secara formal misalnya di UK menggunakan  [the GDS way](https://gds-way.cloudapps.digital/%23content))
+-   secara aktif bekerja untuk memperbaiki masalah organisasi atau kontrak yang mempersulit penyediaan layanan supaya berjalan maksimal (misalnya dengan menyepakati bahasa yang akan dipakai, perangkat dan cara kerja staf teknis, baik secara informal maupun secara formal misalnya di UK menggunakan  [the GDS way](https://gds-way.cloudapps.digital/%23content)
