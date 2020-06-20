@@ -25,3 +25,16 @@
 ### Technology Code of Practice in Spanish (ES)
 
 [Código de Prácticas Tecnológicas](tcop-es)
+
+
+## Bahasa Versions
+
+
+### Service Standard in Bahasa (BH)
+
+[Standar Pelayanan](service-standard-bh)
+
+
+### Technology Code of Practice in Bahasa (BH)
+
+[Kode Praktik Teknologi](tcop-bh)
