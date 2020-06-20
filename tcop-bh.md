@@ -1055,12 +1055,8 @@ Ingatlah bahwa:
 
 Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Standar Pelayanan](service-standard-bh).
 
-Pusat bantuan
+### Pusat bantuan
 
 GDMPglobal.digitalmarketplace@digital.cabinet-office.gov.uk12. Memenuhi Standar Layanan
 
-Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Service Standard](https://www.gov.uk/service-manual/service-standard).
 
-Pusat bantuan
-
-GDMPglobal.digitalmarketplace@digital.cabinet-office.gov.uk
