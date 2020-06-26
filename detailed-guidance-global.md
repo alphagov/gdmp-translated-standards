@@ -15,6 +15,9 @@
 [How to assess a hosting business case](assess_a_hosting_business_case_en)
 
 
+[Managing technical lock-in in the cloud](managing_cloud_lock_in_en)
+
+
 ### API Guidance in English (EN)
 
 [API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
