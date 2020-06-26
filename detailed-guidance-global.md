@@ -12,6 +12,9 @@
 [UK Government Cloud First Policy](uk_govt_cloud_first_policy_en)
 
 
+[How to assess a hosting business case](assess_a_hosting_business_case_en)
+
+
 ### API Guidance in English (EN)
 
 [API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
