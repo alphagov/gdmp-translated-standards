@@ -9,9 +9,7 @@
 [Cloud guide for the public sector](cloud_guide_for_the_public_sector_en)
 
 
-[UK Government Cloud First Policy] (uk_govt_cloud_first_policy_en)
-
-
+[UK Government Cloud First Policy](uk_govt_cloud_first_policy_en)
 
 
 ### API Guidance in English (EN)
