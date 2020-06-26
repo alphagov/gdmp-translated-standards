@@ -8,14 +8,6 @@ From:
 
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 
-## Contents
-
--   [Consider cloud solutions before alternatives](https://www.gov.uk/guidance/government-cloud-first-policy#consider-cloud-solutions-before-alternatives)
-    
--   [Public cloud first](https://www.gov.uk/guidance/government-cloud-first-policy#public-cloud-first)
-    
--   [Definitions](https://www.gov.uk/guidance/government-cloud-first-policy#definitions)
-    
 
 ## Consider cloud solutions before alternatives
 
