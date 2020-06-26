@@ -1,4 +1,4 @@
-# Global Digital Marketplace Programme Translated Guidance Documents
+# Global Digital Marketplace Programme Translated Detailed Guidance Documents
 
 
 ## English Versions
@@ -6,7 +6,7 @@
 
 ### Cloud Gudance in English (EN)
 
-[Service Standard](service-standard-en)
+[Cloud guide for the public sector](cloud_guide_for_the_public_sector_en)
 
 
 ### API Guidance in English (EN)
