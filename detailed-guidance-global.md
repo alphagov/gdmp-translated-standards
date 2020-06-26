@@ -11,7 +11,7 @@
 
 ### API Guidance in English (EN)
 
-[Technology Code of Practice](tcop-en)
+[API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
 
 
 ## Bahasa Versions
