@@ -17,14 +17,3 @@
 [How to document your APIs](how_to_document_apis_en)
 
 
-## Bahasa Versions
-
-
-### Cloud Guidance in Bahasa (BH)
-
-[Standar Pelayanan](service-standard-bh)
-
-
-### API Guidance in Bahasa (BH)
-
-[Kode Praktik Teknologi](tcop-bh)
