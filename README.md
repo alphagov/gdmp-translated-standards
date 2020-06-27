@@ -31,14 +31,14 @@
 [Código de Prácticas Tecnológicas](tcop-es)
 
 
-## Bahasa Versions
+## Bahasa Indonesia Versions
 
 
-### Service Standard in Bahasa (BH)
+### Service Standard in Bahasa Indonesia (BH)
 
 [Standar Pelayanan](service-standard-bh)
 
 
-### Technology Code of Practice in Bahasa (BH)
+### Technology Code of Practice in Bahasa Indonesia (BH)
 
 [Kode Praktik Teknologi](tcop-bh)
