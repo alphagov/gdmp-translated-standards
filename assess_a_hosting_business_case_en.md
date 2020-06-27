@@ -8,14 +8,6 @@ Please note - this document is translated from a guidance used for public sector
 From:
 
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
-
-## Contents
-
--   [Criteria for choosing a hosting supplier](https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case#criteria-for-choosing-a-hosting-supplier)
-    
--   [Third parties in cloud hosting arrangements](https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case#third-parties-in-cloud-hosting-arrangements)
-    
--   [Managing technical lock-in in the cloud](https://www.gov.uk/guidance/how-to-assess-a-hosting-business-case#managing-technical-lock-in-in-the-cloud)
     
 
 In the UK the public cloud is the government’s preferred option for hosting. We introduced a [Cloud First policy](https://www.gov.uk/guidance/government-cloud-first-policy) in 2013. The UK is now moving towards a [‘cloud native’](https://governmenttechnology.blog.gov.uk/2017/02/03/clarifying-our-cloud-first-commitment/) government. In the UK it is important technology purchasing decisions are made with this objective. This guidance helps understand how this objective could be met in your organisation.
