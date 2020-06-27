@@ -8,24 +8,6 @@ Please note - this document is translated from a guidance used for public sector
 From:
 
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
-
-## Contents
-
--   [The benefits of the cloud cost model](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#the-benefits-of-the-cloud-cost-model)
-    
--   [Setting up your organisation to take advantage of the cloud](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#setting-up-your-organisation-to-take-advantage-of-the-cloud)
-    
--   [How the cloud changes your technology budgets](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#how-the-cloud-changes-your-technology-budgets)
-    
--   [Use spending information for better forecasting](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#use-spending-information-for-better-forecasting)
-    
--   [Focusing on cost optimisation](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#focusing-on-cost-optimisation)
-    
--   [Common cloud purchasing options](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#common-cloud-purchasing-options)
-    
--   [Techniques you can use to optimise your cloud](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#techniques-you-can-use-to-optimise-your-cloud)
-    
--   [Related guides](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud#related-guides)
     
 
 In most circumstances the public cloud provides better value for money than on-premise technology, but the way you’re charged is different. Your bills will change according to your usage and though long-term costs are often lower, monthly costs could increase or decrease significantly as your demand fluctuates.
