@@ -6,7 +6,7 @@
 
 ### Cloud Gudance in English (EN)
 
-[Cloud guide for the public sector](cloud_guide_for_the_public_sector_en)
+[Panduan cloud untuk sektor publik] (cloud-guide-public-sector-bh)
 
 
 [UK Government Cloud First Policy](uk_govt_cloud_first_policy_en)
