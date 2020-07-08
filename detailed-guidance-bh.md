@@ -4,7 +4,7 @@
 ## Bahasa Versions
 
 
-### Cloud Gudance in Bahasa (BN)
+### Cloud Gudance in Bahasa (BH)
 
 [Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh)
 
