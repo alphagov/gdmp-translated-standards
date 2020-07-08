@@ -12,24 +12,6 @@ Dari:
 
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 
-## Konten
-
--   [The benefits of the cloud cost model](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23the-benefits-of-the-cloud-cost-model)
-    
--   [Setting up your organisation to take advantage of the cloud](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23setting-up-your-organisation-to-take-advantage-of-the-cloud)
-    
--   [How the cloud changes your technology budgets](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23how-the-cloud-changes-your-technology-budgets)
-    
--   [Use spending information for better forecasting](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23use-spending-information-for-better-forecasting)
-    
--   [Focusing on cost optimisation](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23focusing-on-cost-optimisation)
-    
--   [Common cloud purchasing options](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23common-cloud-purchasing-options)
-    
--   [Techniques you can use to optimise your cloud](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23techniques-you-can-use-to-optimise-your-cloud)
-    
--   [Related guides](https://www.gov.uk/guidance/managing-your-spending-in-the-cloud%23related-guides)
-    
 
 Pada kebanyakan kasus, public cloud menyediakan value for money yang lebih baik dibandingkan teknologi di lokasi, tetapi cara penagihannya berbeda. Tagihan Anda akan bervariasi sesuai penggunaan dan meskipun biaya jangka panjang seringkali lebih rendah, biaya bulanan dapat meningkat atau menurun secara signifikan sesuai fluktuasi permintaan Anda.
 
