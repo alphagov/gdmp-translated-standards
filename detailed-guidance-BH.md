@@ -9,7 +9,7 @@
 [Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh)
 
 
-[UK Government Cloud First Policy](uk_govt_cloud_first_policy_en)
+[Kebijakan Pemerintah Perihal Cloud First](cloud_first_policy_bh)
 
 
 [How to assess a hosting business case](assess_a_hosting_business_case_en)
