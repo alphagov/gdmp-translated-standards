@@ -21,7 +21,7 @@
 [Mengelola pengeluaran Anda di cloud](managing_cloud_spending_bh)
 
 
-### API Guidance in Bahasa (BH)
+### API Guidance in Bahasa (BH) (IN DEVELOPMENT)
 
 [API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
 
