@@ -12,14 +12,6 @@ Diterbitkan pada tanggal 3 Februari 2017
 Dari:
 
 [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
-
-## Isi
-
--   [Pertimbangkan solusi cloud dibanding alternatif lain](https://www.gov.uk/guidance/government-cloud-first-policy%23consider-cloud-solutions-before-alternatives)
-    
--   [Memprioritaskan public cloud](https://www.gov.uk/guidance/government-cloud-first-policy%23public-cloud-first)
-    
--   [Definisi](https://www.gov.uk/guidance/government-cloud-first-policy%23definitions)
     
 
 ## Pertimbangkan solusi cloud dibanding alternatif lain
