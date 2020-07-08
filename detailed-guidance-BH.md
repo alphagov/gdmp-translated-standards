@@ -12,7 +12,7 @@
 [Kebijakan Pemerintah Perihal Cloud First](cloud_first_policy_bh)
 
 
-[How to assess a hosting business case](assess_a_hosting_business_case_en)
+[Bagaimana cara menilai kasus bisnis hosting](how-to-assess-a-hosting-business-case-bh)
 
 
 [Managing technical lock-in in the cloud](managing_cloud_lock_in_en)
