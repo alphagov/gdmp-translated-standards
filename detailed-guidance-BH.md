@@ -1,10 +1,10 @@
 # Global Digital Marketplace Programme Translated Detailed Guidance Documents
 
 
-## English Versions
+## Bahasa Versions
 
 
-### Cloud Gudance in English (EN)
+### Cloud Gudance in Bahasa (BN)
 
 [Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh)
 
@@ -21,7 +21,7 @@
 [Managing your spending in the cloud](managing_cloud_spending_en)
 
 
-### API Guidance in English (EN)
+### API Guidance in Bahasa (BH)
 
 [API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
 
