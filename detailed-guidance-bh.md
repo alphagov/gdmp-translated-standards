@@ -18,7 +18,7 @@
 [Mengelola technical lock-in (ketergantungan teknis) di cloud](managing_cloud_lock_in_bh)
 
 
-[Managing your spending in the cloud](managing_cloud_spending_en)
+[Mengelola pengeluaran Anda di cloud](managing_cloud_spending_bh)
 
 
 ### API Guidance in Bahasa (BH)
