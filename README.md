@@ -42,3 +42,8 @@
 ### Technology Code of Practice in Bahasa Indonesia (BH)
 
 [Kode Praktik Teknologi](tcop-bh)
+
+
+### Detailed Cloud and API Guidance Bahasa(BH)
+
+[Cloud and API Guidance](detailed-guidance-bh)
