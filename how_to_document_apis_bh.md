@@ -1,6 +1,6 @@
 # Cara mendokumentasikan API
 
-## Panduan ini memberikan templat untuk menyusun dokumentasi API Anda dan menjelaskan cara merancang dan memublikasikan konten Anda.
+Panduan ini memberikan templat untuk menyusun dokumentasi API Anda dan menjelaskan cara merancang dan memublikasikan konten Anda.
 
 Harap diperhatikan - bahwa dokumen ini diterjemahkan dari pedoman yang digunakan untuk membuat API di UK. Dokumen ini berisi tautan ke dokumen lain dalam bahasa Inggris. Jika Anda tertarik dengan versi terjemahan dari dokumen ini, silakan hubungi Delivery Manager Senior GDMP Anda:
 
