@@ -26,7 +26,7 @@
 [Standar teknis dan data API (v2 - 2019)](API_tech_data_standards_bh)
 
 
-[How to document your APIs](how_to_document_apis_en)
+[Cara mendokumentasikan API](how_to_document_apis_bh)
 
 
 [Setting API Service Levels](setting_API_service_levels_en)
