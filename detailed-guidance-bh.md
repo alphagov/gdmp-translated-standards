@@ -23,7 +23,7 @@
 
 ### API Guidance in Bahasa (BH) (IN DEVELOPMENT)
 
-[API technical and data standards (v2 - 2019)](API_technical_and_data_standards_en)
+[Standar teknis dan data API (v2 - 2019)](API_tech_data_standards_bh)
 
 
 [How to document your APIs](how_to_document_apis_en)
