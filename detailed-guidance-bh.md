@@ -29,7 +29,7 @@
 [Cara mendokumentasikan API](how_to_document_apis_bh)
 
 
-[Setting API Service Levels](setting_API_service_levels_en)
+[Mengatur tingkat layanan API](setting_API_service_levels_bh)
 
 
 [Writing API Reference Documentation](writing_API_reference_documentation_en)
