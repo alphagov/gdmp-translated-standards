@@ -1,6 +1,24 @@
 # Global Digital Marketplace Programme Translated Standard Documents
 
 
+## Bahasa Indonesia Versions
+
+
+### Service Standard in Bahasa Indonesia (BH)
+
+[Standar Pelayanan](service-standard-bh)
+
+
+### Technology Code of Practice in Bahasa Indonesia (BH)
+
+[Kode Praktik Teknologi](tcop-bh)
+
+
+### Detailed Cloud and API Guidance Bahasa(BH)
+
+[Cloud and API Guidance](detailed-guidance-bh)
+
+
 ## English Versions
 
 
@@ -12,6 +30,7 @@
 ### Technology Code of Practice in English (EN)
 
 [Technology Code of Practice](tcop-en)
+
 
 ### Detailed Cloud and API Guidance English (EN)
 
@@ -31,19 +50,3 @@
 [Código de Prácticas Tecnológicas](tcop-es)
 
 
-## Bahasa Indonesia Versions
-
-
-### Service Standard in Bahasa Indonesia (BH)
-
-[Standar Pelayanan](service-standard-bh)
-
-
-### Technology Code of Practice in Bahasa Indonesia (BH)
-
-[Kode Praktik Teknologi](tcop-bh)
-
-
-### Detailed Cloud and API Guidance Bahasa(BH)
-
-[Cloud and API Guidance](detailed-guidance-bh)
