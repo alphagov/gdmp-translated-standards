@@ -14,7 +14,7 @@
 [Kode Praktik Teknologi](tcop-bh)
 
 
-### Detailed Cloud and API Guidance Bahasa(BH)
+### Detailed Cloud and API Guidance Bahasa Indonesia (BH)
 
 [Cloud and API Guidance](detailed-guidance-bh)
 
