@@ -4,17 +4,17 @@
 ## Bahasa Indonesia Versions
 
 
-### Service Standard in Bahasa Indonesia (BH)
+### Service Standard in Bahasa Indonesia (ID)
 
 [Standar Pelayanan](service-standard-bh)
 
 
-### Technology Code of Practice in Bahasa Indonesia (BH)
+### Technology Code of Practice in Bahasa Indonesia (ID)
 
 [Kode Praktik Teknologi](tcop-bh)
 
 
-### Detailed Cloud and API Guidance Bahasa Indonesia (BH)
+### Detailed Cloud and API Guidance Bahasa Indonesia (ID)
 
 [Cloud and API Guidance](detailed-guidance-bh)
 
