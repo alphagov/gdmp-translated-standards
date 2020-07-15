@@ -4,7 +4,7 @@
 ## Bahasa Versions
 
 
-### Cloud Gudance in Bahasa (BH)
+### Cloud Gudance in Bahasa (ID)
 
 [Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh)
 
@@ -21,7 +21,7 @@
 [Mengelola pengeluaran Anda di cloud](managing_cloud_spending_bh)
 
 
-### API Guidance in Bahasa (BH) (IN DEVELOPMENT)
+### API Guidance in Bahasa (ID) 
 
 [Standar teknis dan data API (v2 - 2019)](API_tech_data_standards_bh)
 
