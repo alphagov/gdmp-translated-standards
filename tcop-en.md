@@ -1,3 +1,7 @@
+---
+permalink: /tcop-en
+---
+
 # Technology Code of Practice
 
 This document is an adaptation of guidance used to procure technology in the UK. 
@@ -1076,7 +1080,7 @@ Remember that:
 
 ## 12. Meet the Service Standard
 
-If you’re building a service as part of your technology project or programme you will also need to meet the [Service Standard](service-standard-en).
+If you’re building a service as part of your technology project or programme you will also need to meet the [Service Standard](service-standard-en.md).
 
 Who to contact for help
 

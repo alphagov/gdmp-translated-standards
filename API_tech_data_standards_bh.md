@@ -1,3 +1,3 @@
 ---
-redirect_to: "API-tech-data-standards-bh"
+redirect_to: "API-technical-and-data-standards-bh"
 ---

@@ -1,3 +1,7 @@
+---
+permalink: /tcop-bh
+---
+
 # Kode Praktik Teknologi
 
 Harap diperhatikan - bahwa dokumen ini diterjemahkan dari pedoman yang digunakan untuk pengadaan teknologi di UK. Dokumen ini berisi tautan ke dokumen lain dalam bahasa Inggris. Jika Anda tertarik dengan versi terjemahan dari dokumen ini, silakan hubungi Delivery Manager Senior GDMP Anda:
@@ -1053,7 +1057,7 @@ Ingatlah bahwa:
     
 ## 12. Memenuhi Standar Layanan
 
-Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Standar Pelayanan](service-standard-bh).
+Jika Anda membangun layanan sebagai bagian dari proyek atau program teknologi, Anda juga harus memenuhi [Standar Pelayanan](service-standard-bh.md).
 
 ### Pusat bantuan
 

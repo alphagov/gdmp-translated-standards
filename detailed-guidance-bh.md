@@ -1,3 +1,7 @@
+---
+permalink: /detailed-guidance-bh
+---
+
 # Global Digital Marketplace Programme Translated Detailed Guidance Documents
 
 
@@ -6,33 +10,33 @@
 
 ### Cloud Gudance in Bahasa (ID)
 
-[Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh)
+[Panduan cloud untuk sektor publik](cloud-guide-public-sector-bh.md)
 
 
-[Kebijakan Pemerintah Perihal Cloud First](cloud_first_policy_bh)
+[Kebijakan Pemerintah Perihal Cloud First](cloud-first-policy-bh.md)
 
 
-[Bagaimana cara menilai kasus bisnis hosting](how-to-assess-a-hosting-business-case-bh)
+[Bagaimana cara menilai kasus bisnis hosting](assess-a-hosting-business-case-bh.md)
 
 
-[Mengelola technical lock-in (ketergantungan teknis) di cloud](managing_cloud_lock_in_bh)
+[Mengelola technical lock-in (ketergantungan teknis) di cloud](managing-cloud-lock-in-bh.md)
 
 
-[Mengelola pengeluaran Anda di cloud](managing_cloud_spending_bh)
+[Mengelola pengeluaran Anda di cloud](managing-cloud-spending-bh.md)
 
 
 ### API Guidance in Bahasa (ID) 
 
-[Standar teknis dan data API (v2 - 2019)](API-tech-data-standards-bh.md)
+[Standar teknis dan data API (v2 - 2019)](API-technical-and-data-standards-bh.md)
 
 
-[Cara mendokumentasikan API](how_to_document_apis_bh)
+[Cara mendokumentasikan API](how-to-document-apis-bh.md)
 
 
-[Mengatur tingkat layanan API](setting_API_service_levels_bh)
+[Mengatur tingkat layanan API](setting-API-service-levels-bh.md)
 
 
-[Menulis dokumentasi referensi API](writing_api_reference_docs_bh)
+[Menulis dokumentasi referensi API](writing-API-reference-documentation-bh.md)
 
 
 

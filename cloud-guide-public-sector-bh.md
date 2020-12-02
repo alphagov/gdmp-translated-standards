@@ -1,3 +1,6 @@
+---
+permalink: /cloud-guide-public-sector-bh
+---
 
 # Panduan cloud untuk sektor publik
 

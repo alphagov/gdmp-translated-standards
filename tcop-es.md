@@ -1,3 +1,7 @@
+---
+permalink: /tcop-es
+---
+
 # Código de Prácticas Tecnológicas
 
 
@@ -1031,7 +1035,7 @@ Recuerde lo siguiente:
 
 ## 12. Cumplir con el Estándar de Servicio
 
-Si está desarrollando un servicio como parte de su proyecto o programa de tecnología, también deberá cumplir con el [Estándar de servicio](service-standard-es)
+Si está desarrollando un servicio como parte de su proyecto o programa de tecnología, también deberá cumplir con el [Estándar de servicio](service-standard-es.md)
 
 Con quién comunicarse para obtener ayuda
 

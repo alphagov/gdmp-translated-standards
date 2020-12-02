@@ -1,3 +1,7 @@
+---
+permalink: /service-standard-es
+---
+
 # Estándar de servicio
 
 ### El estándar de servicio ayuda a los equipos a crear y administrar buenos servicios públicos.

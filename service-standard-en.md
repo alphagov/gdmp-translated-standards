@@ -1,3 +1,7 @@
+---
+permalink: /service-standard-en
+---
+
 # Service Standard
 
 The Service Standard helps teams to create and run great public services.

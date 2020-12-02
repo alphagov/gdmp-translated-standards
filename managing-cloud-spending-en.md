@@ -1,5 +1,5 @@
 ---
-redirect_to: "managing-cloud-spending-en"
+permalink: /managing-cloud-spending-en
 ---
 
 # Managing your spending in the cloud
