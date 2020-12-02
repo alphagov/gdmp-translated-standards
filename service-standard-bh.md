@@ -1,3 +1,7 @@
+---
+permalink: /service-standard-bh
+---
+
 # Standar Pelayanan
 
 Standar Pelayanan membantu tim menciptakan dan menjalankan layanan publik.
