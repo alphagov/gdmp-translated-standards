@@ -23,7 +23,7 @@
 
 ### API Guidance in Bahasa (ID) 
 
-[Standar teknis dan data API (v2 - 2019)](API_tech_data_standards_bh)
+[Standar teknis dan data API (v2 - 2019)](API-tech-data-standards-bh.md)
 
 
 [Cara mendokumentasikan API](how_to_document_apis_bh)
