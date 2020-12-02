@@ -6,7 +6,7 @@
 
 ### Service Standard in Bahasa Indonesia (ID)
 
-[Standar Pelayanan](service-standard-bh)
+[Standar Pelayanan](service-standard-bh.md)
 
 
 ### Technology Code of Practice in Bahasa Indonesia (ID)
