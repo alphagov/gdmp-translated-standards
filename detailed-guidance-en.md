@@ -8,7 +8,7 @@ permalink: /detailed-guidance-en
 ## English Versions
 
 
-### Cloud Gudance in English (EN)
+### Cloud Guidance in English (EN)
 
 [Cloud guide for the public sector](cloud-guide-public-sector-en.md)
 
