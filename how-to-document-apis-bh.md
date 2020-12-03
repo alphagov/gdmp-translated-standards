@@ -1,5 +1,7 @@
 ---
 permalink: /how-to-document-apis-bh
+redirect_from:
+  - /how_to_document_apis_bh
 ---
 
 # Cara mendokumentasikan API

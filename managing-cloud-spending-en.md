@@ -1,5 +1,7 @@
 ---
 permalink: /managing-cloud-spending-en
+redirect_from:
+  - /managing_cloud_spending_en
 ---
 
 # Managing your spending in the cloud

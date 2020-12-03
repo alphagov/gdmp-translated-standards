@@ -1,5 +1,7 @@
 ---
 permalink: /cloud-guide-public-sector-en
+redirect_from:
+  - /cloud_guide_for_the_public_sector_en
 ---
 
 # Cloud guide for the public sector

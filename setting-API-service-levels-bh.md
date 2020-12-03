@@ -1,5 +1,7 @@
 ---
 permalink: /setting-API-service-levels-bh
+redirect_from:
+  - /setting_API_service_levels_bh
 ---
 
 # Mengatur tingkat layanan API

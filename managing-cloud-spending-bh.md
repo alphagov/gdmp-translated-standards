@@ -1,5 +1,7 @@
 ---
 permalink: /managing-cloud-spending-bh
+redirect_from:
+  - /managing_cloud_spending_bh
 ---
 
 # Mengelola pengeluaran Anda di cloud

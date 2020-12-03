@@ -1,5 +1,7 @@
 ---
 permalink: /API-technical-and-data-standards-en
+redirect_from:
+  - /API_technical_and_data_standards_en
 ---
 
 # API technical and data standards (v2 - 2019)

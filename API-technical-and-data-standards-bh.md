@@ -2,7 +2,6 @@
 permalink: /API-tech-data-standards-bh
 redirect_from:
   - /API_tech_data_standards_bh
-  - /API_tech_data_standards_bh.md
 ---
 
 # Standar teknis dan data API (v2 - 2019)

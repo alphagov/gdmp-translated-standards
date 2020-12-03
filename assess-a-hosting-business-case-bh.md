@@ -1,5 +1,7 @@
 ---
 permalink: /assess-a-hosting-business-case-bh
+redirect_from:
+  - /how-to-assess-a-hosting-business-case-bh
 ---
 
 # Bagaimana cara menilai kasus bisnis hosting

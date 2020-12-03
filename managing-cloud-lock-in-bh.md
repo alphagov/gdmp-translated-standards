@@ -1,5 +1,7 @@
 ---
 permalink: /managing-cloud-lock-in-bh
+redirect_from:
+  - /managing_cloud_lock_in_bh
 ---
 
 # Mengelola technical lock-in (ketergantungan teknis) di cloud

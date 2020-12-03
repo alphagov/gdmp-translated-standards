@@ -1,7 +1,8 @@
 ---
 permalink: /how-to-document-apis-en
+redirect_from:
+  - /how_to_document_apis_en
 ---
-
 # How to document APIs
 
 ## This guidance provides a template for structuring your API documentation and explains how you can design and publish your content.

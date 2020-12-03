@@ -1,5 +1,7 @@
 ---
 permalink: /assess-a-hosting-business-case-en
+redirect_from:
+  - /assess_a_hosting_business_case_en
 ---
 
 # How to assess a hosting business case

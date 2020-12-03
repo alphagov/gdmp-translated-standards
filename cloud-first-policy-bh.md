@@ -1,5 +1,7 @@
 ---
 permalink: /cloud-first-policy-bh
+redirect_from:
+  - /cloud_first_policy_bh
 ---
 
 # Kebijakan Pemerintah Perihal Cloud First

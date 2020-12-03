@@ -1,5 +1,7 @@
 ---
 permalink: "/writing-API-reference-documentation-bh"
+redirect_from:
+  - /writing_api_reference_docs_bh
 ---
 
 # Menulis dokumentasi referensi API

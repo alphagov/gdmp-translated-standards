@@ -1,7 +1,8 @@
 ---
 permalink: /detailed-guidance-en
+redirect_from:
+  - /detailed-guidance-global
 ---
-
 # Global Digital Marketplace Programme Translated Detailed Guidance Documents
 
 

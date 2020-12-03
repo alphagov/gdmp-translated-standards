@@ -1,5 +1,7 @@
 ---
 permalink: /managing-cloud-lock-in-en
+redirect_from:
+  - /managing_cloud_lock_in_en
 ---
 
 # Managing technical lock-in in the cloud

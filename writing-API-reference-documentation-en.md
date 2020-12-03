@@ -1,5 +1,7 @@
 ---
 permalink: "/writing-API-reference-documentation-en"
+redirect_from:
+  - /writing_API_reference_documentation_en
 ---
 
 # Writing API reference documentation

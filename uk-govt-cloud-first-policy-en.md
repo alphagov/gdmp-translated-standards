@@ -1,5 +1,7 @@
 ---
 permalink: /uk-govt-cloud-first-policy-en
+redirect_from:
+  - /uk_govt_cloud_first_policy_en
 ---
 
 # UK Government Cloud First policy

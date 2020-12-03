@@ -1,5 +1,7 @@
 ---
 permalink: /setting-API-service-levels-en
+redirect_from:
+  - /setting_API_service_levels_en
 ---
 
 # Setting API service levels
